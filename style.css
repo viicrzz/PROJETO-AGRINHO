@@ -1,0 +1,95 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+}
+
+img{
+    width: 300px;
+    margin-right: 90%;
+    margin-top: -60px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 44px;
+    text-align: center;
+    margin-top: -150px;
+    font-family:  apple-system;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    float: right;
+    font-size:  20px;
+    margin-top: -45px;
+}
+
+nav ul li {
+    display: inline;
+    margin-left: 20px;
+    
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: 0none;
+}
+
+section {
+    padding: 40px 0;
+}
+
+#banner {
+    background-color: #d1d1d1;
+    color: #131313;
+    text-align: center;
+}
+
+#banner h2 {
+    margin: 0;
+    font-size: 36px;
+}
+
+#banner p {
+    font-size: 18px;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #fff;
+    color: #007bff;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+#noticias{
+    text-align: center;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+footer p {
+    margin: 0;
+}
+
